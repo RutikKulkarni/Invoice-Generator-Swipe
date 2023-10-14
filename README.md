@@ -7,10 +7,11 @@ An Invoice creator project built with React. Add itemized items, configure quant
 [https://invoice-generator-react.netlify.app/](https://invoive-generator.netlify.app/)
 
 ### Screenshots
+![image](https://github.com/RutikKulkarni/Invoice-Generator-Swipe/assets/86470947/8ca009dd-d30c-4999-8e3b-61139b4d0571)
 ![image](https://github.com/RutikKulkarni/Invoice-Generator-Swipe/assets/86470947/b5deb6dd-06f0-40b1-ad6b-0a297834d89c)
 ![image](https://github.com/RutikKulkarni/Invoice-Generator-Swipe/assets/86470947/d1a10d54-e4b6-4cdc-9095-3171ab5e034c)
 ![image](https://github.com/RutikKulkarni/Invoice-Generator-Swipe/assets/86470947/aa3c6d78-1abb-4792-bd4b-bb0614c1528c)
-![image](https://github.com/RutikKulkarni/Invoice-Generator-Swipe/assets/86470947/8ca009dd-d30c-4999-8e3b-61139b4d0571)
+
 
 
 
